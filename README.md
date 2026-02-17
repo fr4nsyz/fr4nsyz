@@ -4,7 +4,7 @@
 
 - [Most Recent Project](https://github.com/Francois-Coleongco/LoadBalancer): A thread-safe HTTP load balancer written in Golang
 
-- Currently reading ***Operating Systems: Three Easy Pieces*** *by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau* ( 66.9% complete )
+- Currently reading ***Operating Systems: Three Easy Pieces*** *by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau*
 
 
 ### Experience:
@@ -16,8 +16,6 @@
 ### Reach me:
 
 - [linkedin.com/francois-coleongco](https://ca.linkedin.com/in/francois-coleongco)
-
-- francois.coleongco@gmail.com
 
 - [discord.gg/6JQqhY4mU5](https://discord.gg/6JQqhY4mU5)
 
