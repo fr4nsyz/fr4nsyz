@@ -1,11 +1,8 @@
 ## hello! i'm <a href="https://fransys.netlify.app">francois</a>
 
-- An undergraduate Honors Computer Science major @ UofA interested in systems programming, cybersecurity, and AI
+Honors Computer Science major @ UofA with a focus on systems programming, cybersecurity, and AI
 
-- [Most Recent Project](https://github.com/Francois-Coleongco/LoadBalancer): A thread-safe HTTP load balancer written in Golang
-
-- Currently reading ***Operating Systems: Three Easy Pieces*** *by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau*
-
+*Also it's fran-swa not fran-kois. I just can't be bothered to put an accent. Also I like the pure ascii look.*
 
 ### Experience:
 - SWE Intern @ [IBM](https://www.ibm.com/ca-en)
@@ -15,9 +12,9 @@
 
 ### Reach me:
 
-- [linkedin.com/francois-coleongco](https://ca.linkedin.com/in/francois-coleongco)
-
-- [discord.gg/6JQqhY4mU5](https://discord.gg/6JQqhY4mU5)
+- Scary Job Application Place: [linkedin.com/francois-coleongco](https://ca.linkedin.com/in/francois-coleongco)
+- My server that I occasionally look at: [discord.gg/6JQqhY4mU5](https://discord.gg/6JQqhY4mU5)
+- I don't like reels but I have the app: [https://www.instagram.com/fran_sys_](https://www.instagram.com/fran_sys_)
 
 <!--
 ----------------------------------------
