@@ -36,6 +36,8 @@ mv t0, t1
 j loop
 exitLoop:
 ret
+
+# if yk what this means, can we be friends?
 ```
 
 ----------------------------------------
