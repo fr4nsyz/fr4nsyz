@@ -5,7 +5,7 @@ Honors Computer Science major @ UofA with a focus on systems programming, cybers
 *Also it's fran-swa not fran-kois. I just can't be bothered to put an accent. Also I like the pure ascii look :p
 
 ### Experience:
-- SWE Intern @ [IBM](https://www.ibm.com/ca-en)
+- SDE Intern @ [IBM](https://www.ibm.com/ca-en)
 - Former Open source AI Engineer @ [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub)
 - Former Full Stack Developer @ [UofA Blueprint Chapter](https://uofablueprint.com/)
 
