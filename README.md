@@ -2,19 +2,20 @@
 
 Honors Computer Science major @ UofA with a focus on systems programming, cybersecurity, and AI
 
-*Also it's fran-swa not fran-kois. I just can't be bothered to put an accent. Also I like the pure ascii look :p
+*Also it's fran-swa not fran-kois. I just can't be bothered to put an accent. Also I like the pure ascii look* :p
 
 ### Experience:
 - SDE Intern @ [IBM](https://www.ibm.com/ca-en)
+- Occasional Open source contributor to a bunch of cybersec projects such as Falco
 - Former Open source AI Engineer @ [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub)
 - Former Full Stack Developer @ [UofA Blueprint Chapter](https://uofablueprint.com/)
 
 
 ### Reach me:
 
-- Scary Job Application Place: [linkedin.com/francois-coleongco](https://ca.linkedin.com/in/francois-coleongco)
+- Hardest App to Doomscroll On: [linkedin.com/francois-coleongco](https://ca.linkedin.com/in/francois-coleongco)
 - My server that I occasionally look at: [discord.gg/6JQqhY4mU5](https://discord.gg/6JQqhY4mU5)
-- I don't like reels but I have the app: [https://www.instagram.com/fran_sys_](https://www.instagram.com/fran_sys_)
+- I don't like reels but I have the app bc friends: [https://www.instagram.com/fran_sys_](https://www.instagram.com/fran_sys_)
 
 <!--
 ----------------------------------------
