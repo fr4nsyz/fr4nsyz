@@ -6,7 +6,7 @@ Honors Computer Science major @ UofA with a focus on systems programming, cybers
 
 ### Experience:
 - SDE Intern @ [IBM](https://www.ibm.com/ca-en)
-- Occasional Open source contributor to a bunch of cybersec projects such as Falco
+- Occasional Open source contributor to a bunch of cybersec projects such as [Falco](https://github.com/falcosecurity)
 - Former Open source AI Engineer @ [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub)
 - Former Full Stack Developer @ [UofA Blueprint Chapter](https://uofablueprint.com/)
 
@@ -23,7 +23,7 @@ Honors Computer Science major @ UofA with a focus on systems programming, cybers
 -->
 ----------------------------------------
 
-### ¬∃t ∈ T : forget(t)
+### ¬ ∃t ∈ T : forget(t)
 
 ```
 # Node structure [ data (4 bytes) | next_year (4 bytes) ]
