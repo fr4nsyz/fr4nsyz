@@ -15,7 +15,7 @@ Honors Computer Science major @ UofA with a focus on systems programming, cybers
 
 - Hardest App to Doomscroll On: [linkedin.com/francois-coleongco](https://ca.linkedin.com/in/francois-coleongco)
 - My server that I occasionally look at: [discord.gg/6JQqhY4mU5](https://discord.gg/6JQqhY4mU5)
-- I don't like reels but I have the app bc friends: [https://www.instagram.com/fran_sys_](https://www.instagram.com/fran_sys_)
+- I don't like reels but I have the app bc friends: [https://www.instagram.com/fr4nsyz](https://www.instagram.com/fran_sys_)
 
 <!--
 ----------------------------------------
