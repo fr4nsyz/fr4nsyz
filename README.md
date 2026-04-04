@@ -35,7 +35,7 @@ loop:
 addi t2, t0, 8
 lw t1, 0(t2)
 lw t3, -4(t2)
-add a0, a0, t3
+mul a0, a0, t3
 beq t1, zero, exitLoop
 mv t0, t1
 j loop
