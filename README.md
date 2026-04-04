@@ -2,8 +2,6 @@
 
 Honors Computer Science major @ UofA with a focus on systems programming, cybersecurity, and AI
 
-*Also it's fran-swa not fran-kois. I just can't be bothered to put an accent. Also I like the pure ascii look* :p
-
 ### Experience:
 - SDE Intern @ [IBM](https://www.ibm.com/ca-en)
 - Occasional Open source contributor to a bunch of cybersec projects such as [Falco](https://github.com/falcosecurity)
