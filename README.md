@@ -28,10 +28,14 @@ Honors Computer Science major @ UofA with a focus on systems programming, cybers
 ```
 # Node structure [ data (4 bytes) | next_year (4 bytes) ]
 la  t0, HEAD
+addi t2, t0, 4
+mv a0, zero
 
 loop:
-addi t2, t0, 4
+addi t2, t0, 8
 lw t1, 0(t2)
+lw t3, -4(t2)
+add a0, a0, t3
 beq t1, zero, exitLoop
 mv t0, t1
 j loop
