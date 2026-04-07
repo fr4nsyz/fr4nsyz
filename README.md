@@ -3,8 +3,8 @@
 Honors Computer Science major @ UofA with a focus on systems programming, cybersecurity, and AI
 
 ### Experience:
-- SDE Intern @ [IBM](https://www.ibm.com/ca-en)
-- Occasional Open source contributor to a bunch of cybersec projects such as [Falco](https://github.com/falcosecurity)
+- Software Engineer Intern @ [IBM](https://www.ibm.com/ca-en)
+- Open source contributor to some cybersec projects such as [Falco](https://github.com/falcosecurity)
 - Former Open source AI Engineer @ [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub)
 - Former Full Stack Developer @ [UofA Blueprint Chapter](https://uofablueprint.com/)
 
@@ -23,10 +23,13 @@ Honors Computer Science major @ UofA with a focus on systems programming, cybers
 
 ### ¬ ∃t ∈ T : forget(t)
 
+If you get this, we need to be friends, discord user: fr4nsyz
+
+*(hint: walk the list, accumulate, never forget)*
+
 ```
 # Node structure [ data (4 bytes) | next_year (4 bytes) ]
 la  t0, HEAD
-addi t2, t0, 4
 mv a0, zero
 
 loop:
@@ -37,10 +40,9 @@ mul a0, a0, t3
 beq t1, zero, exitLoop
 mv t0, t1
 j loop
+
 exitLoop:
 ret
-
-# if yk what this means, can we be friends?
 ```
 
 ----------------------------------------
