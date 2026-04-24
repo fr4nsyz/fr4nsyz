@@ -11,9 +11,22 @@ Honors Computer Science major @ UofA with a focus on systems programming, cybers
 
 ### Reach me:
 
-- Hardest App to Doomscroll On: [linkedin.com/francois-coleongco](https://ca.linkedin.com/in/francois-coleongco)
-- My server that I occasionally look at: [discord.gg/6JQqhY4mU5](https://discord.gg/6JQqhY4mU5)
-- I don't like reels but I have the app bc friends: [https://www.instagram.com/fr4nsyz](https://www.instagram.com/fr4nsyz)
+Hardest App to Doomscroll On =====================> 
+<a href="https://ca.linkedin.com/in/francois-coleongco" style="text-decoration:none; display:inline-flex; align-items:center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="22"/>
+</a>
+<br>
+
+My server that I occasionally look at =================> 
+<a href="https://discord.gg/6JQqhY4mU5" style="text-decoration:none; display:inline-flex; align-items:center;">
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="22"/>
+</a>
+<br>
+
+I hate short-form but I have the app bc friends: =========> 
+<a href="https://www.instagram.com/fr4nsyz" style="text-decoration:none; display:inline-flex; align-items:center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="22"/>
+</a>
 
 <!--
 ----------------------------------------
