@@ -1,6 +1,6 @@
 ## hello! i'm <a href="https://fransys.netlify.app">francois</a>
 
-Honors Computer Science major @ UofA with a focus on systems programming, cybersecurity, and AI
+Honors Computer Science major @ UofA with a focus on systems programming and cybersecurity.
 
 ### Experience:
 - Software Engineer Intern @ [IBM](https://www.ibm.com/ca-en)
@@ -36,7 +36,7 @@ I hate short-form but I have the app bc friends: =========>
 
 ### ¬ ∃t ∈ T : forget(t)
 
-If you get this, we need to be friends, discord user: fr4nsyz
+If you get this, we need to be friends. Discord user: fr4nsyz
 
 *(hint: walk the list, accumulate, never forget)*
 
