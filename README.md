@@ -4,7 +4,7 @@ Honors Computer Science major @ UofA with a focus on systems programming and cyb
 
 ### Experience:
 - Software Engineer Intern @ [IBM](https://www.ibm.com/ca-en)
-- Open source contributor to [Falco](https://github.com/falcosecurity) which powers cloud native runtime security at IBM and AWS
+- Open source contributor to [Falco](https://github.com/falcosecurity) which powers cloud native runtime security at IBM, AWS, and Red Hat
 - Former Open source AI Engineer @ [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub)
 - Former Full Stack Developer @ [UofA Blueprint Chapter](https://uofablueprint.com/)
 
