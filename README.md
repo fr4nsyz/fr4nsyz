@@ -1,36 +1,36 @@
 ## gweetings
 
-I'm François, but I wish I was named francis so the username fransys/fr4nsyz makes more sense, but it's whateva 🫠
+I'm François, but I wish I was named Francis so the username fransys/fr4nsyz makes more sense, but it's whateva 🫠
 
 ---
 
 ## Experience
 
-- Software Engineering Intern - IBM  
-  https://www.ibm.com/ca-en
+- Software Engineering Intern - **IBM**
 
-- Open source contributor - Falco Security  
-  https://github.com/falcosecurity  
-  Cloud native runtime security used across IBM, AWS, Red Hat ecosystems
+- Open source contributor - **Falco Security** - Cloud native runtime security used across IBM, AWS, Red Hat ecosystems
 
-- Former Open Source AI Engineer - Undergraduate Artificial Intelligence Society  
-  https://github.com/UndergraduateArtificialIntelligenceClub
+### Prev:
 
-- Former Security Engineer - UofA Blueprint Chapter  
-  https://uofablueprint.com/
+- Former Open Source AI Engineer - **Undergraduate Artificial Intelligence Society**
+
+- Former Security Engineer - **UofA Blueprint Chapter**
 
 ---
 
 ## Other work
 
-Hackathons and project work  
-https://devpost.com/Francois-Coleongco
+Hackathon stuffs:
+
+My devpost https://devpost.com/Francois-Coleongco
+
+- Hack Canada 2026 Winner
 
 ---
 
 ## Contact
 
-LinkedIn  
+LinkedIn
 https://ca.linkedin.com/in/francois-coleongco
 
 Instagram  
@@ -42,7 +42,7 @@ https://www.instagram.com/fr4nsyz
 
 ¬ ∃t ∈ T : forget(t)
 
-```asm
+```
 # Node structure [ data (4 bytes) | next (4 bytes) ]
 la  t0, HEAD
 mv a0, zero
