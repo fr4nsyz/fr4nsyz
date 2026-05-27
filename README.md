@@ -2,8 +2,6 @@
 
 I'm François, but I wish I was named Francis so the username fransys/fr4nsyz makes more sense, but it's whateva 🫠
 
----
-
 ## Experience
 
 - Software Engineering Intern - **IBM**
@@ -18,8 +16,6 @@ I'm François, but I wish I was named Francis so the username fransys/fr4nsyz ma
 
 - Former Security Engineer - **UofA Blueprint Chapter**
 
----
-
 ## Other work
 
 Hackathon stuffs:
@@ -28,7 +24,6 @@ My devpost https://devpost.com/Francois-Coleongco
 
 - Hack Canada 2026 Winner
 
----
 
 ## ¬ ∃t ∈ T : forget(t)
 
