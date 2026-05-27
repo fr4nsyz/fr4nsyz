@@ -4,10 +4,13 @@ Honors Computer Science major @ UofA with a focus on systems programming and cyb
 
 ### Experience:
 - Software Engineer Intern @ [IBM](https://www.ibm.com/ca-en)
-- Open source contributor to [Falco](https://github.com/falcosecurity) which provides cloud native runtime security for IBM, AWS, and Red Hat
-- Former open source AI Engineer @ [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub)
-- Former Full Stack Developer @ [UofA Blueprint Chapter](https://uofablueprint.com/)
+- Open source contributor to [falcosecurity](https://github.com/falcosecurity) which provides cloud native runtime security for IBM, AWS, and Red Hat
+- Former open source AI Engineer @ [Undergraduate Artificial Intelligence Society](https://github.com/UndergraduateArtificialIntelligenceClub)
+- Former Security Engineer @ [UofA Blueprint Chapter](https://uofablueprint.com/)
 
+### Other stuff I don't know how to categorize:
+
+I like to do hackathons sometimes: [Devpost](https://devpost.com/Francois-Coleongco)
 
 ### Reach me:
 
