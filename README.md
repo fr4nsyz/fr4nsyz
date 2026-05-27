@@ -8,7 +8,9 @@ I'm François, but I wish I was named Francis so the username fransys/fr4nsyz ma
 
 - Software Engineering Intern - **IBM**
 
-- Open source contributor - **Falco Security** - Cloud native runtime security used across IBM, AWS, Red Hat ecosystems
+- Open source contributor:
+
+     \- **Falco Security** - Cloud native runtime security
 
 ### Prev:
 
@@ -28,19 +30,7 @@ My devpost https://devpost.com/Francois-Coleongco
 
 ---
 
-## Contact
-
-LinkedIn
-https://ca.linkedin.com/in/francois-coleongco
-
-Instagram  
-https://www.instagram.com/fr4nsyz
-
----
-
-## Snippet
-
-¬ ∃t ∈ T : forget(t)
+## ¬ ∃t ∈ T : forget(t)
 
 ```
 # Node structure [ data (4 bytes) | next (4 bytes) ]
