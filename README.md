@@ -6,12 +6,6 @@ I'm François, but I wish I was named Francis so the username fransys/fr4nsyz ma
 
 - Software Engineering Intern - **IBM**
 
-- Open source contributor:
-
-     \- **Falco Security** - Cloud native runtime security
-
-### Prev:
-
 - Former Open Source AI Engineer - **Undergraduate Artificial Intelligence Society**
 
 - Former Security Engineer - **UofA Blueprint Chapter**
