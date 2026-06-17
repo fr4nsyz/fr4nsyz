@@ -19,7 +19,7 @@ My devpost https://devpost.com/Francois-Coleongco
 - Hack Canada 2026 Winner
 
 
-## ¬ ∃t ∈ T : forget(t)
+## ¬ ∃t ∈ Time : forget(t)
 
 ```
 # Node structure [ data (4 bytes) | next (4 bytes) ]
