@@ -5,24 +5,16 @@ I'm François, but I wish I was named Francis so the username fransys/fr4nsyz ma
 ## Experience
 
 - Software Engineering Intern - **IBM**
-
 - Former Open Source AI Engineer - **Undergraduate Artificial Intelligence Society**
-
 - Former Security Engineer - **UofA Blueprint Chapter**
 
-## Other work
-
-Hackathon stuffs:
-
-My devpost https://devpost.com/Francois-Coleongco
-
-- Hack Canada 2026 Winner
 
 
 ## ¬ ∃t ∈ Time : forget(t)
 
 ```
-# Node structure [ data (4 bytes) | next (4 bytes) ]
+; RISC-V | Node structure [ data (4 bytes) | next (4 bytes) ]
+
 la  t0, HEAD
 mv a0, zero
 
