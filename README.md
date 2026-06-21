@@ -12,20 +12,9 @@ I'm François, but I wish I was named Francis so the username fransys/fr4nsyz ma
 
 ## ¬ ∃t ∈ Time : forget(t)
 
-```
-; RISC-V | Node structure [ data (4 bytes) | next (4 bytes) ]
-
-la  t0, HEAD
-mv a0, zero
-
-loop:
-addi t2, t0, 8
-lw t1, 0(t2)
-lw t3, -4(t2)
-mul a0, a0, t3
-beq t1, zero, exitLoop
-mv t0, t1
-j loop
-
-exitLoop:
-ret
+```cpp
+int endeavor(Node* head) {
+    int x = 1;
+    for (Node* y = head;; y = y->next) { x *= y->data; if (y->next == nullptr) break; }
+    return x;
+}
