@@ -15,6 +15,6 @@ I'm François, but I wish I was named Francis so the username fransys/fr4nsyz ma
 ```cpp
 int endeavor(Node* head) {
     int x = 1;
-    for (Node* y = head;; y = y->next) { x *= y->data; if (y->next == nullptr) break; }
+    for (Node* y = head;; y = y->next) { x *= y->data; y->prev = nullptr; if (y->next == nullptr) break; }
     return x;
 }
