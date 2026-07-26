@@ -1,14 +1,12 @@
 ## gweetings
 
-I'm François, but I wish I was named Francis so the username fransys/fr4nsyz makes more sense, but it's whateva 🫠
+I'm François, but I wish I was named Francis so the username fransys/[fr4nsyz](https://fr4nsyz.github.io/) makes more sense, but it's whateva 🫠
 
 ## Experience
 
 - Software Engineering Intern - **IBM**
-- Former Open Source AI Engineer - **Undergraduate Artificial Intelligence Society**
-- Former Security Engineer - **UofA Blueprint Chapter**
-
-
+- Ex AI Engineer - **Undergraduate Artificial Intelligence Society**
+- Ex Security Engineer - **UofA Blueprint Chapter**
 
 ## ¬ ∃t ∈ Time : forget(t)
 
