@@ -6,7 +6,7 @@ I'm François, but I wish I was named Francis so the username fransys/[fr4nsyz](
 
 - Software Engineering Intern - **IBM**
 
-## Things I Didn't Get Paid To Do
+## Things I Didn't Get Paid To Do (but love doing anyways hehe)
 
 - Open Source Contributor:
   - Cilium (Kubernetes CNI)
