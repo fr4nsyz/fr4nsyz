@@ -8,7 +8,9 @@ I'm François, but I wish I was named Francis so the username fransys/[fr4nsyz](
 
 ## Things I Didn't Get Paid To Do
 
-- Cilium (Kubernetes CNI) -- Open Source Contributor
+- Open Source Contributor:
+  - Cilium (Kubernetes CNI)
+  - Falco (Cloud Runtime Security Framework)
 - Ex AI Engineer - **Undergraduate Artificial Intelligence Society**
 - Ex Security Engineer - **UofA Blueprint Chapter**
 
