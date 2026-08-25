@@ -13,7 +13,7 @@ Infra/Security SWE Intern @ IBM, CS undergrad, and open source contributor.
 - My blog → deep dives on Linux, low-level programming, and cybersecurity.
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/francois-cole) · [X/Twitter](https://x.com/fr4nsyz) · Email
+[LinkedIn](https://www.linkedin.com/in/francois-cole) · [X/Twitter](https://x.com/fr4nsyz)
 
 ---
 
