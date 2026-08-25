@@ -1,6 +1,6 @@
 # Hi, I'm François
 
-I'm an Infra/Security SWE Intern @ IBM, open source contributor, and a speedy Wordle player.
+Infra/Security SWE Intern @ IBM, CS undergrad, and open source contributor.
 
 ## Stuff I got paid to do
 - Infra/Security Software Engineer Intern @ **IBM** → Threat detection on production Kubernetes.
@@ -25,5 +25,5 @@ double whatsLeftBehind = [head]() {
     if (n->data >= 1.0) x *= n->data;
   }
   return x;
-}() // not every number belongs in your equation
+}() // not every number in the stream belongs in our equations
 ```
