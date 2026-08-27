@@ -10,7 +10,7 @@ Infra/Security SWE Intern @ IBM, CS undergrad, and open source contributor.
 - Maintaining **[KernelHarbor](https://github.com/fr4nsyz/KernelHarbor)** → an open-source experimental EDR with syscall monitoring + RAG analysis.
 
 ## Writing && Notes
-- My blog → deep dives on Linux, low-level programming, and cybersecurity.
+- [fr4nsyz.github.io](https://fr4nsyz.github.io) → deep dives on Linux, low-level programming, and cybersecurity.
 
 
 ## Technologies
