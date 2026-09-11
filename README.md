@@ -7,7 +7,7 @@ Infra/Security SWE Intern @ IBM, CS undergrad, and open source contributor.
 
 ## Stuff I did for free
 - **[Cilium](https://github.com/cilium/cilium)** → Fixed an IPAM bug, backporting set for v1.17–v1.20 [PR #47497](https://github.com/cilium/cilium/pull/47497).
-- Maintaining **[KernelHarbor](https://github.com/fr4nsyz/KernelHarbor)** → an open-source experimental EDR with syscall monitoring + RAG analysis.
+- Maintaining **[KernelHarbor](https://github.com/fr4nsyz/KernelHarbor)** → an experimental EDR with syscall monitoring + RAG analysis.
 
 ## Writing && Notes
 - [fr4nsyz.github.io](https://fr4nsyz.github.io) → deep dives on Linux, low-level programming, and cybersecurity.
