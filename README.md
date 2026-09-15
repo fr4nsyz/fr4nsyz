@@ -6,7 +6,7 @@ Infra/Security SWE Intern @ IBM, CS undergrad, and open source contributor.
 - Infra/Security Software Engineer Intern @ **IBM** → Threat detection and response for production Kubernetes.
 
 ## Stuff I did for free
-- **[Cilium](https://github.com/cilium/cilium)** → Fixed an IPAM bug, backporting set for v1.17–v1.20 [PR #47497](https://github.com/cilium/cilium/pull/47497).
+- **[Cilium](https://github.com/cilium/cilium)** → Fixed an IPAM bug, backporting set for v1.19–v1.20 [PR #47497](https://github.com/cilium/cilium/pull/47497).
 - Maintaining **[KernelHarbor](https://github.com/fr4nsyz/KernelHarbor)** → an experimental EDR with syscall monitoring + RAG analysis.
 
 ## Writing && Notes
