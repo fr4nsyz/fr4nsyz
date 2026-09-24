@@ -22,7 +22,7 @@ Infra/Security SWE Intern @ IBM, CS undergrad, and open source contributor.
 
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/francois-cole) · [X/Twitter](https://x.com/fr4nsyz)
+[LinkedIn](https://www.linkedin.com/in/francois-coleongco) · [X/Twitter](https://x.com/fr4nsyz)
 
 ---
 
