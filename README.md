@@ -1,9 +1,9 @@
 # Hi, I'm François
 
-Infra/Security SWE Intern @ IBM, CS undergrad, and open source contributor.
+I'm a CS undergrad studying at the University of Alberta. and
 
-## Stuff I got paid to do
-- Infra/Security Software Engineer Intern @ **IBM** → Threat detection and response for production Kubernetes.
+## Stuff I got paid for
+- Software Engineer Intern @ **IBM** → Cloud Native Security + AI Infrastructure
 
 ## Stuff I did for free
 - **[Cilium](https://github.com/cilium/cilium)** → Fixed an IPAM bug, backporting set for v1.19–v1.20 [PR #47497](https://github.com/cilium/cilium/pull/47497).
