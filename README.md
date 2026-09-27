@@ -1,6 +1,6 @@
 # Hi, I'm François
 
-I'm a CS undergrad studying at the University of Alberta. and
+I'm a CS undergrad studying at the University of Alberta.
 
 ## Stuff I got paid for
 - Software Engineer Intern @ **IBM** → Cloud Native Security + AI Infrastructure
