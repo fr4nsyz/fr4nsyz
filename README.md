@@ -23,10 +23,6 @@ I'm a CS undergrad studying at the University of Alberta and I'm obsessed with a
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%231e1e2e?style=for-the-badge&logo=kubernetes&logoColor=89b4fa)
 ![Linux](https://img.shields.io/badge/linux-%231e1e2e?style=for-the-badge&logo=linux&logoColor=89b4fa)
 
-
-## Connect
-[LinkedIn](https://www.linkedin.com/in/francois-coleongco) · [X/Twitter](https://x.com/fr4nsyz)
-
 ---
 
 ## ¬ ∃t ∈ Time : forget(t)
