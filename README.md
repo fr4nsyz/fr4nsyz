@@ -13,7 +13,7 @@ I'm a CS undergrad studying at the University of Alberta and I'm obsessed with a
 - **[KernelHarbor](https://github.com/fr4nsyz/KernelHarbor)** with friends from TrendAI and AMD → an experimental EDR with syscall monitoring + RAG analysis.
 
 ## Writing && Notes
-- [fr4nsyz.github.io](https://fr4nsyz.github.io) → deep dives on Linux, low-level programming, and cybersecurity.
+- [fr4nsyz.github.io](https://fr4nsyz.github.io) → deep dives on whatever rabbit holes I decide to go down.
 
 
 ## Technologies
@@ -33,5 +33,5 @@ double whatsLeftBehind = [head]() {
     if (n->data >= 1.0) x *= n->data;
   }
   return x;
-}() // not every number in the stream belongs in our equations
+}()
 ```
